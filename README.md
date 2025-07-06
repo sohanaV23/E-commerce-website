@@ -52,10 +52,11 @@ Through this project, I practiced and improved my understanding of:
 ## 🚀 Future Improvements
 
 - Add working cart functionality
-- Use backend tools like PHP or Firebase for storing product and user data
+- Use backend tools like Firebase for storing product and user data
 - Integrate login/signup features
 - Filter products by category, price, or rating
-- Add animations using AOS or GSAP libraries
   
  ## OUTPUT
- 
+<img width="1919" height="905" alt="Image" src="https://github.com/user-attachments/assets/d3d3aae3-4798-4d1b-952a-4cc798d9bca7" />
+<img width="1896" height="907" alt="Image" src="https://github.com/user-attachments/assets/64cc08e9-c0c2-4cb7-9362-1e254f2fc38b" />
+<img width="1886" height="899" alt="Image" src="https://github.com/user-attachments/assets/5810e66d-93a1-485e-9cf4-724d8e0ddb6e" />
