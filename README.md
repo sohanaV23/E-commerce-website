@@ -35,8 +35,8 @@ All the features are built using core web technologies to help understand layout
 
 ## 🔧 Technologies Used
 
-- **HTML5** – Used for the structure and layout of the site.
-- **CSS3** – For styling, positioning, color themes, and responsive design.
+- **HTML** – Used for the structure and layout of the site.
+- **CSS** – For styling, positioning, color themes, and responsive design.
 - **JavaScript** – Adds functionality like dark mode, menu toggle, and product filtering.
 - **Ionicons** – Used for icons in the menu and footer.
 
